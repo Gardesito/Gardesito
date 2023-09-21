@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[ Linkedin ] (https://www.linkedin.com/in/elias-solis/)
+[ Linkedin ](https://www.linkedin.com/in/elias-solis/)
 
 <!--
 **Gardesito/Gardesito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
