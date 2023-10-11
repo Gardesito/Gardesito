@@ -4,7 +4,7 @@
 
  
 ## 🌐 Socials:
-[ Linkedin ](https://www.linkedin.com/in/elias-solis/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquinsolis/)](https://www.linkedin.com/in/elias-solis/)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elias_fx)
 
 <!--
