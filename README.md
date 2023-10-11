@@ -5,7 +5,7 @@
  
 ## 🌐 Socials:
 [ Linkedin ](https://www.linkedin.com/in/elias-solis/)
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sky.git)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elias_fx)
 
 <!--
 **Gardesito/Gardesito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
