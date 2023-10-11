@@ -6,7 +6,9 @@
 ## 🌐 Socials:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquinsolis/)](https://www.linkedin.com/in/elias-solis/)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elias_fx)
-
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 <!--
 **Gardesito/Gardesito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
